@@ -1,0 +1,10 @@
+Y:\proyectos\splashScreen\splashScreen\bin\Debug\splashScreen.exe.config
+Y:\proyectos\splashScreen\splashScreen\bin\Debug\splashScreen.exe
+Y:\proyectos\splashScreen\splashScreen\bin\Debug\splashScreen.pdb
+Y:\proyectos\splashScreen\splashScreen\obj\Debug\splashScreen.csprojAssemblyReference.cache
+Y:\proyectos\splashScreen\splashScreen\obj\Debug\splashScreen.FrmSplasScreen.resources
+Y:\proyectos\splashScreen\splashScreen\obj\Debug\splashScreen.Properties.Resources.resources
+Y:\proyectos\splashScreen\splashScreen\obj\Debug\splashScreen.csproj.GenerateResource.cache
+Y:\proyectos\splashScreen\splashScreen\obj\Debug\splashScreen.csproj.CoreCompileInputs.cache
+Y:\proyectos\splashScreen\splashScreen\obj\Debug\splashScreen.exe
+Y:\proyectos\splashScreen\splashScreen\obj\Debug\splashScreen.pdb
